@@ -1,0 +1,34 @@
+LinkedList Question List
+
+1. Reverse LinkedList
+2. Insert Start Item in LinkedList
+3. Insert Mid Item in LinkedList
+4. Insert End Item in LinkedList
+5. Insert Position Item in LinkedList
+
+6. Delete Start Item in LinkedList
+7. Delete Mid Item in LinkedList
+8. Delete End Item in LinkedList
+9. Delete Position Item in LinkedList
+
+10. Find the Length of LinkedList
+11. Search for an Element in LinkedList
+12. Find the Nth Node from End of LinkedList
+13. Detect a Cycle in LinkedList
+14. Find the Intersection Point of Two LinkedLists
+15. Merge Two Sorted LinkedLists
+16. Split a LinkedList into Two Halves
+17. Remove Duplicates from an Unsorted LinkedList
+18. Remove Duplicates from a Sorted LinkedList
+19. Sort a LinkedList
+20. Clone a LinkedList with Random Pointers
+21. Rotate a LinkedList by K Nodes
+22. Check if a LinkedList is a Palindrome
+23. Swap Nodes in Pairs in LinkedList
+24. Reverse Nodes in K-Group in LinkedList
+25. Flatten a Multilevel Doubly LinkedList
+27. Add Two Numbers Represented by LinkedLists
+28. Convert a LinkedList to a Binary Search Tree
+29. Flatten a LinkedList with Next and Child Pointers
+30. Rearrange a LinkedList by Rearranging Nodes
+31. Reorder LinkedList to Form a Zig-Zag Pattern
